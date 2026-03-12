@@ -20,7 +20,4 @@ A Power BI dashboard is created to visually represent patient waiting time patte
 ## Conclusion
 This project demonstrates how data analytics can help identify bottlenecks in hospital services and improve operational efficiency by analyzing patient waiting time data.
 
-## Author
-Bhobesh Adhithiyan S G  
-Computer Science Engineering  
-Kongu Engineering College
+
