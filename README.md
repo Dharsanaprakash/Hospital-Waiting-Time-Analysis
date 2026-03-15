@@ -1,23 +1,46 @@
 # Hospital Patient Waiting Time Analysis
 
 ## Project Overview
-The Hospital Patient Waiting Time Analysis project focuses on analyzing patient waiting times in hospitals to identify delays and inefficiencies in the healthcare process. The analysis helps understand patient flow and highlights areas where service time can be improved.
-
-## Objective
-The objective of this project is to analyze hospital data and gain insights into patient waiting times, department workload, and overall service efficiency. The project aims to support better healthcare management through data-driven insights.
+This project analyzes hospital patient data to understand patterns affecting the length of hospital stay. The goal is to evaluate how medical conditions and insurance providers influence patient treatment duration.
 
 ## Tools Used
 - Power BI
 - Microsoft Excel
 - Data Visualization Techniques
+- Pivot Tables
 
-## Dataset
-The dataset contains information related to patient arrival time, department visits, and waiting durations. This data is used to analyze waiting time patterns and visualize them through dashboards.
+## Dataset Features
+
+The dataset includes the following important fields:
+
+- Patient_ID
+- Medical Condition
+- Insurance Provider
+- Admission Type
+- Gender
+- Blood Type
+- Length of Stay
+
+## KPI
+
+**Average Hospital Stay**
+
+Average Stay Duration: **15.06** days
+
+## Key Insights
+
+- Patients diagnosed with Diabetes show the highest average hospital stay, followed by obesity and arthritis.
+- Hospital stay duration is relatively similar across major insurance providers such as Medicare, UnitedHealthcare, and Blue Cross.
+- Medical conditions appear to have a greater influence on stay duration than insurance provider type.
 
 ## Dashboard
 A Power BI dashboard is created to visually represent patient waiting time patterns, department performance, and hospital service efficiency.
 
-## Conclusion
-This project demonstrates how data analytics can help identify bottlenecks in hospital services and improve operational efficiency by analyzing patient waiting time data.
+![Dashboard](images/dashboard.png)
 
+## Business Recommendations
+
+- Allocate additional resources to departments handling chronic conditions.
+- Improve treatment workflows to reduce patient stay duration.
+- Monitor patient admission patterns to improve hospital capacity planning.
 
