@@ -36,7 +36,7 @@ Average Stay Duration: **15.06** days
 ## Dashboard
 A Power BI dashboard is created to visually represent patient waiting time patterns, department performance, and hospital service efficiency.
 
-![Dashboard](image/Dashboard.png)
+![Dashboard](Image/Dashboard.png)
 
 ## Business Recommendations
 
